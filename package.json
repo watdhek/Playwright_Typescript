@@ -1,0 +1,22 @@
+{
+  "name": "playwright_typescript",
+  "version": "1.0.0",
+  "description": "**Playwright Basics**",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watdhek/Playwright_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watdhek/Playwright_Typescript/issues"
+  },
+  "homepage": "https://github.com/watdhek/Playwright_Typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
